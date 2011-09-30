@@ -1,0 +1,4 @@
+The astar folder contains a multithreaded (for parallelism) Java implementation of the A* algorithm. 
+I wrote this code a couple of weeks ago, to learn the threads API in Java.
+The A* algorithm is essentially a path finding algorithm, variations of which are commonly used for AI in strategy games. 
+For more information, see http://en.wikipedia.org/wiki/A*_search_algorithm.
